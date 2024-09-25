@@ -1,7 +1,5 @@
 Preço de Imóveis
 
-Descrição Curta
-
 Projeto focado em estimar o preço de imóveis com base em variáveis explicativas e análise de dados. O objetivo é entender quais fatores influenciam mais no preço e criar um modelo de regressão linear para realizar previsões precisas.
 
 Objetivo do Projeto
